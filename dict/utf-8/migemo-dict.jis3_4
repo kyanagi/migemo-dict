@@ -1,27 +1,42 @@
 ひこなぎさたけうがやふきあえずのみこと	彦波瀲武鸕鷀草葺不合尊	彦波瀲武鸕鶿草葺不合尊
 ひこなぎさたけうがやふきあへずのみこと	彦波瀲武鸕鷀草葺不合尊
-lateralapproximan	ɭ	ʎ
+lateralapproximant	ɭ	ʎ
+lateralfricative	ɬ	ɮ
 かるかやどうしんつくしのいえづと	苅萱桑門筑紫𨏍
-lateralfricativ	ɬ	ɮ
 みうらのおおすけこうばいたづな	三浦大助紅梅靮
+midcentralised	̽
+midcentralized	̽
+pharyngealised	̴
+pharyngealized	̴
 おうみげんじしかたこうしゃく	近江源氏𨉷講釈
-midcentralise	̽
-midcentralize	̽
-pharyngealise	̴
-pharyngealize	̴
+extrahightone	˥
+parallelogram	▱
+tensorproduct	⊗
 ふじかわぶねのりあいばなし	藤川船𦪌話
-extrahighton	˥
-parallelogra	▱
-tensorproduc	⊗
+doublehyphen	゠
+extralowtone	˩
+linguolabial	̼
+noncongruent	≢
+postalveolar	ʃ	ʒ
 あじすきたかひこねのかみ	阿遅鉏高日子根神
 あぢすきたかひこねのかみ	阿遅鉏高日子根神
 うがやふきあえずのみこと	鸕鷀草葺不合尊
 うがやふきあへずのみこと	鸕鷀草葺不合尊
-doublehyphe	゠
-extralowton	˩
-linguolabia	̼
-noncongruen	≢
-postalveola	ʃ	ʒ
+approximant	ʋ	ɹ	ɻ	ɰ	ʍ	ɥ	ɕ	ʑ
+centralised	̈
+centralized	̈
+doubleacute	˝
+doubleprime	〝	〟
+glottalstop	ʕ	ʔ	ʢ	ʡ
+hamiltonian	ℏ
+labiodental	ɱ	ʋ
+lateralflap	ɺ
+lessrounded	̹
+milligramme	㎎
+morerounded	̜
+nonsyllabic	̯
+notparallel	∦
+perspective	⌆
 きょうしんのうえききん	恭親王奕訢
 けいしんのうえききょう	慶親王奕劻
 じゅんしんのうえきけん	醇親王奕譞
@@ -29,21 +44,19 @@ postalveola	ʃ	ʒ
 じんてんあいのうしょう	塵添壒嚢鈔
 にじゅうきっこうかっこ	〘〙	〙	〘
 れんらくかんびんのがく	濂洛関閩の学
-approximan	ʋ	ɹ	ɻ	ɰ	ʍ	ɥ	ɕ	ʑ
-centralise	̈
-centralize	̈
-doubleacut	˝
-doubleprim	〝	〟
-glottalsto	ʕ	ʔ	ʢ	ʡ
-hamiltonia	ℏ
-labiodenta	ɱ	ʋ
-lateralfla	ɺ
-lessrounde	̹
-milligramm	㎎
-morerounde	̜
-nonsyllabi	̯
-notparalle	∦
-perspectiv	⌆
+apostrophe	＇
+centimeter	㎝
+centimetre	㎝
+epiglottal	ʡ	ʢ
+extrashort	˘	̆
+horsepower	㏋
+kilogramme	㎏
+millimeter	㎜
+millimetre	㎜
+notelement	∉
+pharyngeal	ħ	ʕ
+projective	⌅
+unreleased	̚
 いいづかろうかんさい	飯塚琅玕斎
 ぎゅうけつぞうぞうき	牛橛造像記
 しらやまひめじんじゃ	白山比咩神社
@@ -51,20 +64,27 @@ perspectiv	⌆
 じょうけいりんこうふ	上京臨潢府
 とうろくしょうひょう	®
 ゆうしんちゅうちゅう	憂心忡々
-apostroph	＇
-centimete	㎝
-centimetr	㎝
-epiglotta	ʡ	ʢ
-extrashor	˘	̆
-horsepowe	㏋
-kilogramm	㎏
-millimete	㎜
-millimetr	㎜
-minyakonk	貢嘎山
-notelemen	∉
-pharyngea	ħ	ʕ
-projectiv	⌅
-unrelease	̚
+consonant	ɱ	ʋ	ɾ	ʃ	ʒ	ɬ	ɮ	ɹ	ʈ	ɖ	ɳ	ɽ	ʂ	ʐ	ɻ	ɭ	ɟ	ɲ	ʝ	ʎ	ɡ	ŋ	ɰ	ʁ	ħ	ʕ	ʔ	ɦ	ʘ	ǂ	ɓ	ɗ	ʄ	ɠ	Ɠ	ʍ	ɥ	ʢ	ʡ	ɕ	ʑ	ɺ	ɧ
+copyright	©
+diacritic	͡	̆	̋	́	̄	̀	̏	̌	̂	̥	̬	̹	̜	̟	̠	̈	̽	̩	̯	̤	̰	̼	̴	̝	̞	̘	̙	̪	̺	̻	̃	̚
+diaeresis	̈	̤
+directsum	⊕
+factorial	∟
+fricative	ʃ	ʒ	ʂ	ʐ	ʝ	ʁ	ħ	ʕ	ʢ	ɦ
+homotopic	≃
+implosive	ɓ	ɗ	ʄ	ɠ	Ɠ
+kilometer	㎞
+kilometre	㎞
+leftangle	̚
+milligram	㎎
+nasalised	̃
+nasalized	̃
+quotation	＂
+retracted	̠	̙
+retroflex	ɳ	ʈ	ɖ	ʂ	ʐ	ɽ	ɭ	ɻ
+velarised	̴
+velarized	̴
+voiceless	̥
 あいぐんじょうやく	璦琿条約
 あじすきたかひこね	味鉏高彦根
 あまのいはくすぶね	天の磐櫲樟船
@@ -89,27 +109,23 @@ unrelease	̚
 まぐさしきこうぞう	楣式構造
 りんろうきゅうそう	琳琅璆鏘
 わらしべちょうじゃ	藁稭長者
-consonan	ɱ	ʋ	ɾ	ʃ	ʒ	ɬ	ɮ	ɹ	ʈ	ɖ	ɳ	ɽ	ʂ	ʐ	ɻ	ɭ	ɟ	ɲ	ʝ	ʎ	ɡ	ŋ	ɰ	ʁ	ħ	ʕ	ʔ	ɦ	ʘ	ǂ	ɓ	ɗ	ʄ	ɠ	Ɠ	ʍ	ɥ	ʢ	ʡ	ɕ	ʑ	ɺ	ɧ	ɱʋɾʃʒɬɮɹʈɖɳɽʂʐɻɭɟɲʝʎɡŋɰʁħʕʔɦʘǂɓɗʄɠƓʍɥʢʡɕʑɺɧ
-copyrigh	©
-diacriti	͡	̆	̋	́	̄	̀	̏	̌	̂	̥	̬	̹	̜	̟	̠	̈	̽	̩	̯	̤	̰	̼	̴	̝	̞	̘	̙	̪	̺	̻	̃	̚
-diaeresi	̈	̤
-directsu	⊕
-factoria	∟
-fricativ	ʃ	ʒ	ʂ	ʐ	ʝ	ʁ	ħ	ʕ	ʢ	ɦ
-homotopi	≃
-implosiv	ɓ	ɗ	ʄ	ɠ	Ɠ
-kilomete	㎞
-kilometr	㎞
-leftangl	̚
-milligra	㎎
-nasalise	̃
-nasalize	̃
-quotatio	＂
-retracte	̠	̙
-retrofle	ɳ	ʈ	ɖ	ʂ	ʐ	ɽ	ɭ	ɻ
-velarise	̴
-velarize	̴
-voiceles	̥
+advanced	̟	̘
+alveolar	ɹ	ɾ	ɬ	ɮ	ɺ	ǂ	ɗ
+asterism	⁂
+bilabial	ʘ	ɓ
+crotchet	♩
+currency	¤
+halflong	ˑ
+hightone	˦	́
+homotope	≃
+integral	∮
+kilogram	㎏
+ligature	͡
+midpoint	·
+millibar	㍊
+parallel	∥	∦
+syllabic	̩
+triangle	⊿	◀	▶	▷	◁
 あしゅくにょらい	阿閦如来
 あめりかざりがに	アメリカ蝲蛄
 いちもんじせせり	一文字挵蝶
@@ -162,24 +178,26 @@ voiceles	̥
 らごあしゅらおう	羅睺阿修羅王
 りりつしょうひん	離立笑髩
 れんらくかんびん	濂洛関閩
-advance	̟	̘
-alveola	ɹ	ɾ	ɬ	ɮ	ɺ	ǂ	ɗ
-asteris	⁂
-bilabia	ʘ	ɓ
-crotche	♩
-currenc	¤
-halflon	ˑ
-highton	˦	́
-homotop	≃
-integra	∮
-kilogra	㎏
-ligatur	͡
-midpoin	·
-milliba	㍊
-paralle	∥	∦
-saffraa	洎夫藍	洎芙藍
-syllabi	̩
-triangl	⊿	◀	▶	▷	◁
+breathy	̤
+calorie	㌍
+cedille	¸
+command	⌘
+dhyphen	゠
+falling	˥˩	̂
+glottal	ʔ	ɦ
+hectare	㌶
+laminal	̻
+liaison	‿
+linking	‿
+lowered	̞
+lowtone	˨	̀
+midtone	˧	̄
+natural	♮
+palatal	ɲ	ɟ	ʝ	ʎ	ʄ
+percent	㌫
+plosive	ʈ	ɖ	ɟ	ʔ	ʡ
+seagull	̼
+upsilon	ʊ
 あいのうしょう	壒嚢鈔
 あかはらいもり	赤腹蠑螈
 あかはらゐもり	赤腹蠑螈
@@ -303,28 +321,27 @@ triangl	⊿	◀	▶	▷	◁
 りんしょうけん	臨漳県
 ろうさいかたぎ	癆瘵気質
 16ぶおんぷ	♬
-breath	̤
-calori	㌍
-cedill	¸
-comman	⌘
-dhyphe	゠
-dzunga	準噶爾
-fallin	˥˩	̂
-glotta	ʔ	ɦ
-hectar	㌶
-lamina	̻
-liaiso	‿
-linkin	‿
-lowere	̞
-lowton	˨	̀
-midton	˧	̄
-natura	♮
-palata	ɲ	ɟ	ʝ	ʎ	ʄ
-percen	㌫
-plosiv	ʈ	ɖ	ɟ	ʔ	ʡ
-saffro	洎夫藍	洎芙藍
-seagul	̼
-upsilo	ʊ
+apical	̺
+bottom	˩	̏
+bridge	̪	̺
+bullet	•	◦
+cloudy	☁
+clover	♧	♣
+creaky	̰
+dental	ɗ	̪
+dollar	㌦
+eszett	ß
+gramme	㌘
+macron	¯	̄
+number	№
+ogonek	˛
+raised	̝
+return	⏎
+rhotic	˞
+rising	˩˥	̌
+square	̻
+stress	ˈ	ˌ
+uvular	ʁ	Ɠ
 あおうみがめ	黿
 あおばせせり	青羽挵り
 あごごえざき	𩹉越崎
@@ -589,33 +606,30 @@ upsilo	ʊ
 (ひだり)	㊧
 4ぶおんぷ	♩
 8ぶおんぷ	♫
-apica	̺
-botto	˩	̏
-bridg	̪	̺
-bulle	•	◦
+alpha	ɑ
+breve	˘	̆
+caron	ˇ	̌	̬
+centi	㌢	㎝
+check	✓
+click	ʘ	ǂ
 cloud	☁
-clove	♧	♣
-creak	̰
-denta	ɗ	̪
-dolla	㌦
-eszet	ß
-galda	噶爾丹
-gramm	㌘
-junga	準噶爾
-kalap	咬𠺕吧
-kaxga	喀什噶爾
-macro	¯	̄
-numbe	№
-ogone	˛
-pinyi	拼音
-raise	̝
-retur	⏎
-rhoti	˞
-risin	˩˥	̌
-squar	̻
-stres	ˈ	ˌ
+enter	⏎
+heart	♡	♥
+litre	ℓ	㍑
+milli	㍉	㎜
+minus	̠
+modal	̬
+nasal	ɱ	ɳ	ɲ	ŋ	̃
+schwa	ə
+sigma	ς
+slack	̥
+space	␣	 
+spade	♤	♠
+stiff	̬
 thorn	þ
-uvula	ʁ	Ɠ
+tilde	～	̰	̴	̃
+velar	ŋ	ɰ	ɠ
+vowel	œ	Œ	ɨ	ʉ	ɘ	ɵ	ə	ɜ	ɞ	ɐ	ɯ	ʊ	ɤ	ʌ	ɔ	ɑ	ɒ	æ̀	ǽ	ὰ	ά	ɔ̀	ɔ́	ʌ̀	ʌ́	ə̀	ə́	ɚ̀	ɚ́	ὲ	έ
 あいきやう	鱫鱜
 あいきょう	鱫鱜
 あかたては	赤蛺蝶
@@ -1395,31 +1409,28 @@ uvula	ʁ	Ɠ
 (なか)	㊥
 (みぎ)	㊨
 [[]]	〘〙
-alph	ɑ
-brev	˘	̆
-caro	ˇ	̌	̬
-cent	㌢	㎝
-chec	✓
-clic	ʘ	ǂ
-clou	☁
-ente	⏎
-hear	♡	♥
+cent	㌣
+club	♣	♧
+dash	–
+euro	€
+fine	☀
+flap	ɾ	ɽ
+gram	㌘
+heng	ɧ
+high	˦	́
 k.k.	㏍
-litr	ℓ	㍑
-mill	㍉	㎜
-minu	̠
-moda	̬
-nasa	ɱ	ɳ	ɲ	ŋ	̃
-schw	ə
-sigm	ς
-slac	̥
-spac	␣	 
-spad	♤	♠
-stif	̬
-tild	～	̰	̴	̃
-vela	ŋ	ɰ	ɠ
-viii	Ⅷ
-vowe	œ	Œ	ɨ	ʉ	ɘ	ɵ	ə	ɜ	ɞ	ɐ	ɯ	ʊ	ɤ	ʌ	ɔ	ɑ	ɒ	æ̀	ǽ	ὰ	ά	ɔ̀	ɔ́	ʌ̀	ʌ́	ə̀	ə́	ɚ̀	ɚ́	ὲ	έ	œŒɨʉɘɵəɜɞɐɯʊɤʌɔɑɒæ̀ǽὰάɔ̀ɔ́ʌ̀ʌ́ə̀ə́ɚ̀ɚ́ὲέ
+kilo	㌔	㎞	㎏
+lezh	ɮ
+long	ː
+nbsp	 
+page	㌻
+plus	̟
+rain	☂
+snow	☃
+tack	̝	̞	̘	̙
+tone	˥	˦	˧	˨	˩	˩˥	˥˩
+viii	Ⅷ	ⅷ
+watt	㍗
 あいあい	抙
 あいいろ	藍靛
 あいがい	靄厓
@@ -3327,40 +3338,64 @@ vowe	œ	Œ	ɨ	ʉ	ɘ	ɵ	ə	ɜ	ɞ	ɐ	ɯ	ʊ	ɤ	ʌ	ɔ	ɑ	ɒ	æ̀	ǽ	ὰ	ά	ɔ̀	ɔ�
 ae'	ǽ
 ae`	æ̀
 ar`	ɚ̀
-cen	㌣
-clu	♣	♧
-das	–
+are	㌃
+aum	唵
+cal	㌍
+dia	♢	♦
+dot	•	◦	﹅	﹆
+eng	ŋ
 er'	ɚ́
-eth	Ð
-eur	€
-fin	☀
-fla	ɾ	ɽ
-gra	㌘
-hen	ɧ
-hig	˦	́
-iii	Ⅲ
-kil	㌔	㎞	㎏
-lez	ɮ
-lon	ː
+esh	ʃ
+eth	Ð	ð
+ezh	ʒ
+iii	Ⅲ	ⅲ
+ipa	ɱ	ʋ	ɾ	ʃ	ʒ	ɬ	ɮ	ɹ	ʈ	ɖ	ɳ	ɽ	ʂ	ʐ	ɻ	ɭ	ɟ	ɲ	ʝ	ʎ	ɡ	ŋ	ɰ	ʁ	ħ	ʕ	ʔ	ɦ	ʘ	ǂ	ɓ	ɗ	ʄ	ɠ	Ɠ	œ	Œ	ɨ	ʉ	ɘ	ɵ	ə	ɜ	ɞ	ɐ	ɯ	ʊ	ɤ	ʌ	ɔ	ɑ	ɒ	ʍ	ɥ	ʢ	ʡ	ɕ	ʑ	ɺ	ɧ	ɚ	æ̀	ǽ	ὰ	ά	ɔ̀	ɔ́	ʌ̀	ʌ́	ə̀	ə́	ɚ̀	ɚ́	ὲ	έ
+low	˨	̀
 m^2	㎡
-nbs	 
+mho	℧
+mid	˧	̄
+nga	か゚	カ゚
+nge	け゚	ケ゚
+ngi	き゚	キ゚
+ngo	こ゚	コ゚
+ngu	く゚	ク゚
 no.	№
+nse	セ゚
+nto	ト゚
+ntu	ツ゚
 o''	Ő	ő
-pag	㌻
-plu	̟
-rai	☂
-sno	☃
-tac	̝	̞	̘	̙
-tel	℡
-ton	˥	˦	˧	˨	˩	˩˥	˥˩
+tap	ɾ	ɽ
+tel	℡	☎
+tie	‿	͡
+ton	㌧
+top	˥	̋
 u''	Ű	ű
 u:'	ǘ
 u:-	ǖ
 u:`	ǜ
+u:v	ǚ
 u``	ů
-vii	Ⅶ	ⅷ
-wat	㍗
-xii	Ⅻ
+vii	Ⅶ	ⅶ
+xha	ㇵ
+xhe	ㇸ
+xhi	ㇶ
+xho	ㇹ
+xhu	ㇷ
+xii	Ⅻ	ⅻ
+xka	ゕ
+xke	ゖ
+xku	ㇰ
+xmu	ㇺ
+xnu	ㇴ
+xpu	ㇷ゚
+xra	ㇻ
+xre	ㇾ
+xri	ㇼ
+xro	ㇿ
+xru	ㇽ
+xsi	ㇱ
+xsu	ㇲ
+xto	ㇳ
 あいき	噯気
 あいだ	畾
 あいや	噯呀
@@ -5124,6 +5159,7 @@ xii	Ⅻ
 ^1	¹
 ^2	²
 ^3	³
+^a	ª
 ``	〝	〟	̏
 a'	Á	á	ά	ʌ́	ə́
 a,	Ą	ą
@@ -5131,56 +5167,57 @@ a-	Ā	ā
 a:	Ä	ä
 a^	Â	å	â
 a`	À	à	ὰ	ʌ̀	ə̀
-ae	Æ
-ar	㌃
-au	唵
+ae	Æ	æ
+ao	Å
+av	Ă	ă
 a~	Ã	ã
 c'	Ć	ć
 c,	Ç	ç
 c^	Ĉ	ĉ
-ca	㌍
 cc	㏄
+cm	㎝
+cr	⏎
+cv	Č	č
 d-	Ð	đ
-di	♢	♦
-do	•	◦	﹅	﹆
+dv	Ď	ď
 e'	É	é	έ	ə́
 e,	Ę	ę
 e-	Ē	ē
 e:	Ë	ë
 e^	Ê	ê
 e`	È	è	ὲ	ə̀
-en	ŋ
-es	ʃ
-et	ð
-ez	ʒ
+ev	Ě	ě
 e|	∉
 g^	Ĝ	ĝ
 h-	ℏ	ħ
 h/	ℏ
 h^	Ĥ	ĥ
+ha	㌶
 hp	㏋
 i'	Í	í
 i-	Ī	ī	ɨ
 i:	Ï	ï
 i^	Î	î
 i`	Ì	ì
-ii	Ⅱ	ⅲ
-ip	ɱ	ʋ	ɾ	ʃ	ʒ	ɬ	ɮ	ɹ	ʈ	ɖ	ɳ	ɽ	ʂ	ʐ	ɻ	ɭ	ɟ	ɲ	ʝ	ʎ	ɡ	ŋ	ɰ	ʁ	ħ	ʕ	ʔ	ɦ	ʘ	ǂ	ɓ	ɗ	ʄ	ɠ	Ɠ	œ	Œ	ɨ	ʉ	ɘ	ɵ	ə	ɜ	ɞ	ɐ	ɯ	ʊ	ɤ	ʌ	ɔ	ɑ	ɒ	ʍ	ɥ	ʢ	ʡ	ɕ	ʑ	ɺ	ɧ	ɚ	æ̀	ǽ	ὰ	ά	ɔ̀	ɔ́	ʌ̀	ʌ́	ə̀	ə́	ɚ̀	ɚ́	ὲ	έ	ɱʋɾʃʒɬɮɹʈɖɳɽʂʐɻɭɟɲʝʎɡŋɰʁħʕʔɦʘǂɓɗʄɠƓœŒɨʉɘɵəɜɞɐɯʊɤʌɔɑɒʍɥʢʡɕʑɺɧɚæ̀ǽὰάɔ̀ɔ́ʌ̀ʌ́ə̀ə́ɚ̀ɚ́ὲέ
-iv	Ⅳ
-ix	Ⅸ
+ii	Ⅱ	ⅱ
+iv	Ⅳ	ⅳ
+ix	Ⅸ	ⅸ
 j^	Ĵ	ĵ
+je	ʒ
+kg	㎏
 kk	㏍
+km	㎞
 l'	Ĺ	ĺ
 l/	Ł	ł
-lo	˨	̀
+lv	Ľ	ľ
 m'	Ḿ	ḿ
-mh	℧
-mi	˧	̄
+mg	㎎
+mm	㎜
 n'	Ń	ń
 n`	Ǹ	ǹ
-ng	か゚	カ゚	け゚	ケ゚	き゚	キ゚	こ゚	コ゚	く゚	ク゚
-ns	セ゚
-nt	ト゚	ツ゚
+ng	ŋ
+no	№
+nv	Ň	ň
 n~	Ñ	ñ
 o'	Ó	ó	ɔ́
 o+	⊕
@@ -5189,37 +5226,38 @@ o/	Ø	ø
 o:	Ö	ö
 o^	Ô	ô
 o`	Ò	ò	ɔ̀
-oe	Œ
+oe	Œ	œ
+ov	ǒ
+ox	⊗
 o~	Õ	õ
 r'	Ŕ	ŕ
+rv	Ř	ř
 s'	Ś	ś
 s,	Ş	ş
 s^	Ŝ	ŝ
+sh	ʃ
+ss	ß
+sv	Š	š
 t,	Ţ	ţ
-ta	ɾ	ɽ
-te	☎	℡
-ti	‿	͡
-to	㌧	˥	̋
+tv	Ť	ť
 u'	Ú	ú
 u-	Ū	ū	ʉ
-u:	Ü	ü	ǚ
+u:	Ü	ü
 u^	Û	û
 u`	Ù	ù
+uo	Ů
+uv	Ŭ	ǔ
 u~	ŭ
-vi	Ⅵ	ⅶ
-xh	ㇵ	ㇸ	ㇶ	ㇹ	ㇷ
-xi	Ⅺ	ⅻ
-xk	ゕ	ゖ	ㇰ
-xm	ㇺ
-xn	ㇴ
-xp	ㇷ゚
-xr	ㇻ	ㇾ	ㇼ	ㇿ	ㇽ
-xs	ㇱ	ㇲ
-xt	ㇳ
+va	ヷ
+ve	ヹ
+vi	Ⅵ	ⅵ	ヸ
+vo	ヺ
+xi	Ⅺ	ⅺ
 y'	Ý	ý
 y:	ÿ
 z'	Ź	ź
 z.	Ż	ż
+zv	Ž	ž
 ←→	↔	⇄
 ああ	唉	嘻	於虖
 あい	呃	洼	餲	靛	唉	娭	嗌	塧	壒	噯	璦	皧	薆	鱫
@@ -6397,29 +6435,33 @@ z.	Ż	ż
 =	゠
 [	〖
 ]	〗
-^	̂	ª
+^	̂
 `	̀
-a	Á	Ă	Â	Ä	À	Ā	Ą	Å	Ã	æ	ă
-c	Ć	Č	Ç	Ĉ	©	㏄	㎝	⏎	č
-d	Ď	ď
-e	É	Ě	Ê	Ë	È	Ē	Ę	ě
-g	Ĝ	Ɠ
-h	Ĥ	㌶
-i	Í	Î	Ï	Ì	Ī	Ⅰ	ⅱ	ⅳ	ⅸ
-j	Ĵ	ʒ
-k	㎏	㎞
-l	Ĺ	Ľ	Ł	ľ
-m	Ḿ	㎎	㎜
-n	Ń	Ň	Ǹ	Ñ	№	ŋ	ň
-o	Ó	Ô	Ö	Ő	Ò	Ō	Ø	Õ	œ	ǒ	⊗
-r	Ŕ	Ř	®	ʁ	ř
-s	Ś	Š	Ş	Ŝ	ʃ	ß	š
-t	Ť	Ţ	ť
-u	Ú	Ŭ	Û	Ü	Ű	Ù	Ū	Ů	þ	ǔ
-v	Ⅴ	ヷ	ヹ	ⅵ	ヸ	ヺ
-x	Ⅹ	ⅺ
-y	Ý
-z	Ź	Ž	Ż	ž
+a	Á	Ă	Â	Ä	À	Ā	Ą	Å	Ã	ā	å	ä	ã	â	á	à	ă	ą	ⓐ	ª	ɐ	ʌ	ɑ	ɒ
+b	ⓑ	ɓ
+c	Ć	Č	Ç	Ĉ	©	ç	ć	č	ĉ	ⓒ	ɕ
+d	Ď	ď	đ	ⓓ	ɖ	ɗ
+e	É	Ě	Ê	Ë	È	Ē	Ę	ē	ë	ê	é	è	ě	ę	ⓔ	ɘ	ə	ɜ	ɞ
+f	ⓕ
+g	Ĝ	Ɠ	ĝ	ⓖ	ɤ	ɡ	ɠ	㌘
+h	Ĥ	ĥ	ℏ	ⓗ	ħ	ɥ	ɧ	ɦ
+i	Í	Î	Ï	Ì	Ī	Ⅰ	ī	ï	î	í	ì	ⓘ	ⅰ
+j	Ĵ	ĵ	ⓙ	ɟ	ʝ	ʄ
+l	Ĺ	Ľ	Ł	ĺ	ľ	ł	ⓛ	ɬ	ɭ	ℓ
+m	Ḿ	ḿ	ⓜ	ɯ	ɱ	ɰ	ʍ
+n	Ń	Ň	Ǹ	Ñ	ñ	ń	ň	ǹ	ⓝ	ɳ	ɲ	ŋ
+o	Ó	Ô	Ö	Ő	Ò	Ō	Ø	Õ	ō	ø	ö	õ	ô	ó	ò	ǒ	ő	ⓞ	º	ɔ	ɵ	̥
+p	ⓟ
+q	ⓠ
+r	Ŕ	Ř	®	ʁ	ŕ	ř	ⓡ	˞	ɾ	ɹ	ɽ	ɻ	ɺ
+s	Ś	Š	Ş	Ŝ	š	ś	ş	ŝ	ⓢ	ς	ʂ
+t	Ť	Ţ	ť	ţ	ⓣ	ʈ	̝	̞	̘	̙
+u	Ú	Ŭ	Û	Ü	Ű	Ù	Ū	Ů	þ	ū	ü	û	ú	ù	ŭ	ǔ	ǘ	ǚ	ǜ	ǖ	ű	ů	ⓤ	ʊ	ɤ
+v	Ⅴ	ⅴ	ʋ	ˇ	̌	̬	̆	ⓥ
+w	ⓦ	ʍ
+x	Ⅹ	ⅹ	ⓧ	̽
+y	Ý	ÿ	ý	ⓨ	ʎ
+z	Ź	Ž	Ż	ź	ž	ż	ⓩ	ʐ	ʑ
 |	¦
 ~	̰	̴	̃
 ←	⇦	↖	↙
